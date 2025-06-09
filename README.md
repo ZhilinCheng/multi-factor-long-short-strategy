@@ -1,1 +1,1 @@
-# multi-factor-long-short-strategy
+try for xgboost, not pratical strategy
